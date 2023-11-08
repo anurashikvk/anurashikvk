@@ -1,8 +1,5 @@
 ### Hi there 👋, Muhammed Anu Rashik VK
 #### Data Analyst |Data Science Enthusiast Specializing in Machine Learning Techniques | Driving Data-Backed Business Solutions
-![Data Analyst |Data Science Enthusiast Specializing in Machine Learning Techniques | Driving Data-Backed Business Solutions](https://www.linkedin.com/in/anu-rashik-65696b231/)
-
-👋 Hi there, I'm Muhammed Anu Rashik VK!
 
 🚀 As a dedicated Data Analyst and Data Science Enthusiast, I specialize in implementing machine learning techniques to drive data-backed business solutions.
 
@@ -19,5 +16,7 @@ Skills: Python / MySQL / Machine Learning / Deep Learning / Data Analysis
 - 🌱 I’m currently learning Data Science  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anurashikvk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/anurashikvk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Anu Rashik/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anurashikvk)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/anurashikvk)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anu-rashik-65696b231/)  
 
