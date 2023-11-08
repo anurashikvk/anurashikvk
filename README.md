@@ -1,5 +1,6 @@
-### Hi there 👋, Muhammed Anu Rashik VK
-#### Data Analyst |Data Science Enthusiast Specializing in Machine Learning Techniques | Driving Data-Backed Business Solutions
+## 👋 Hi there, I'm Muhammed Anu Rashik VK!
+
+### Data Analyst |Data Science Enthusiast Specializing in Machine Learning Techniques | Driving Data-Backed Business Solutions
 
 🚀 As a dedicated Data Analyst and Data Science Enthusiast, I specialize in implementing machine learning techniques to drive data-backed business solutions.
 
@@ -9,8 +10,12 @@
 
 🔗 Let's connect and explore how we can collaborate on exciting data-driven ventures!
 
-
-Skills: Python / MySQL / Machine Learning / Deep Learning / Data Analysis
+## Skills
+- Python
+- MySQL
+- Machine Learning
+- Deep Learning
+- Data Analysis
 
 - 🔭 I’m currently working on Data Science Projects 
 - 🌱 I’m currently learning Data Science  
