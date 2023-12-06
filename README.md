@@ -14,9 +14,9 @@
 - Python
 - MySQL
 - Machine Learning
+- Power BI
 - Deep Learning
 - Data Analysis
 
 - 🔭 I’m currently working on Data Science Projects 
-- 🌱 I’m currently learning Data Science  
 
