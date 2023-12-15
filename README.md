@@ -1,3 +1,5 @@
+![pexels-timur-saglambilek-185576](https://github.com/anurashikvk/anurashikvk/assets/134492695/0f4c87e3-6a7a-49eb-8457-ec34e1ab9c02)
+
 ## 👋 Hi there, I'm Muhammed Anu Rashik VK!
 
 ### Data Analyst |Data Science Enthusiast Specializing in Machine Learning Techniques | Driving Data-Backed Business Solutions
